@@ -1,0 +1,36 @@
+{
+  "product": [
+    {
+      "Name": "Keyboard LG",
+      "Amount": "2",
+      "Prices": "150000",
+      "USD": "15",
+      "VND": "300000",
+      "Warranty": "2"
+    },
+    {
+      "Name": "Mouse LG",
+      "Amount": "2",
+      "Prices": "10000",  
+      "USD": "10",
+      "VND": "20000",
+      "Warranty": "2"      
+    },
+    {
+      "Name": "RAM SamSung 64GB",
+      "Amount": "1",
+      "Prices": "1000000",
+      "USD": "50",
+      "VND": "1000000",
+      "Warranty": "2"
+    }
+  ],
+  "currency": [
+    {
+      "Type": "USD"
+    },
+    {
+      "Type": "VND"     
+    }
+  ]
+}

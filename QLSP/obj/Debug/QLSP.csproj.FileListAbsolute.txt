@@ -1,0 +1,17 @@
+C:\Users\Tuan\source\repos\QLSP\QLSP\bin\Debug\QLSP.exe.config
+C:\Users\Tuan\source\repos\QLSP\QLSP\bin\Debug\QLSP.exe
+C:\Users\Tuan\source\repos\QLSP\QLSP\bin\Debug\QLSP.pdb
+C:\Users\Tuan\source\repos\QLSP\QLSP\obj\Debug\QLSP.csprojAssemblyReference.cache
+C:\Users\Tuan\source\repos\QLSP\QLSP\obj\Debug\QLSP.HoadonGTGT.resources
+C:\Users\Tuan\source\repos\QLSP\QLSP\obj\Debug\QLSP.Hoadonthuong.resources
+C:\Users\Tuan\source\repos\QLSP\QLSP\obj\Debug\QLSP.Properties.Resources.resources
+C:\Users\Tuan\source\repos\QLSP\QLSP\obj\Debug\QLSP.csproj.GenerateResource.cache
+C:\Users\Tuan\source\repos\QLSP\QLSP\obj\Debug\QLSP.exe
+C:\Users\Tuan\source\repos\QLSP\QLSP\obj\Debug\QLSP.pdb
+C:\Users\Tuan\source\repos\QLSP\QLSP\bin\Debug\Json.Net.dll
+C:\Users\Tuan\source\repos\QLSP\QLSP\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Tuan\source\repos\QLSP\QLSP\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Tuan\source\repos\QLSP\QLSP\obj\Debug\QLSP.csproj.CopyComplete
+C:\Users\Tuan\source\repos\QLSP\QLSP\obj\Debug\QLSP.infoHDT.resources
+C:\Users\Tuan\source\repos\QLSP\QLSP\obj\Debug\QLSP.infoHDGTGT.resources
+C:\Users\Tuan\source\repos\QLSP\QLSP\obj\Debug\QLSP.Thanhtoan.resources

@@ -1,0 +1,12 @@
+{
+  "bill": [
+    {
+      "Date": "7/1/2021",
+      "Name": "Trần Anh Tuấn",
+      "Address": "Số 2 , ngõ Trại Cá , Trương Định",
+      "Account": "123456789",
+      "Pay": "Tiền mặt",
+      "Currency": "USD"
+    }
+  ]
+}
